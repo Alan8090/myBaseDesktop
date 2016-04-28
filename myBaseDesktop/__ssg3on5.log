@@ -26,3 +26,494 @@
 2016-04-25 22:19:36	**ERR: _CFolderTree::open(pStg=0243F520); Failed with errcode=-21.
 2016-04-27 11:58:54	**ERR: _CFolderTree::_openStage2(); Wrong password.
 2016-04-27 11:58:54	**ERR: _CFolderTree::open(pStg=029CCDF0); Failed with errcode=-20.
+2016-04-28 12:00:47	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:00:47	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:00:47	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DAT); Failed to read data stream; sName=_~_~_notes.rtf
+2016-04-28 12:00:48	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:00:48	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:00:49	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DAT); Failed to read data stream; sName=_~_~_notes.rtf
+2016-04-28 12:00:50	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:00:50	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:00:50	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=0
+2016-04-28 12:00:50	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:00:51	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:00:51	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=1
+2016-04-28 12:00:51	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:00:52	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:00:52	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=2
+2016-04-28 12:00:52	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:00:53	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:00:53	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=3
+2016-04-28 12:00:53	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:00:53	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:00:54	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=4
+2016-04-28 12:00:54	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:00:54	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:00:55	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=5
+2016-04-28 12:00:55	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:00:55	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:00:56	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=6
+2016-04-28 12:00:56	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:00:56	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:00:56	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=7
+2016-04-28 12:00:57	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:00:57	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:00:57	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=8
+2016-04-28 12:00:58	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:00:58	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:00:58	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=9
+2016-04-28 12:00:59	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:00:59	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:00:59	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=10
+2016-04-28 12:00:59	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:00	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:00	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=11
+2016-04-28 12:01:00	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:01	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:01	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=12
+2016-04-28 12:01:01	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:02	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:02	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=13
+2016-04-28 12:01:02	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:02	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:03	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=14
+2016-04-28 12:01:03	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:03	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:04	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=15
+2016-04-28 12:01:04	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:04	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:05	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=16
+2016-04-28 12:01:05	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:05	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:05	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=17
+2016-04-28 12:01:06	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:06	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:06	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=18
+2016-04-28 12:01:07	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:07	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:07	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=19
+2016-04-28 12:01:08	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:08	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:08	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=23
+2016-04-28 12:01:09	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:09	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:09	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=24
+2016-04-28 12:01:09	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:10	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:10	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=25
+2016-04-28 12:01:10	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:11	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:11	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=26
+2016-04-28 12:01:11	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:12	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:12	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=28
+2016-04-28 12:01:12	**ERR: _CFileStream::read(1), nLastErr=21
+2016-04-28 12:01:12	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:13	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=27
+2016-04-28 12:01:13	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:13	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:14	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=29
+2016-04-28 12:01:14	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:14	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:15	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=0
+2016-04-28 12:01:15	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:15	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:15	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=1
+2016-04-28 12:01:16	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:16	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:16	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=2
+2016-04-28 12:01:17	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:17	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:17	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=3
+2016-04-28 12:01:18	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:18	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:18	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=4
+2016-04-28 12:01:18	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:19	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:19	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=5
+2016-04-28 12:01:19	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:20	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:20	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=6
+2016-04-28 12:01:20	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:21	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:21	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=7
+2016-04-28 12:01:21	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:21	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:22	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=8
+2016-04-28 12:01:22	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:22	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:23	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=9
+2016-04-28 12:01:23	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:23	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:24	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=10
+2016-04-28 12:01:24	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:24	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:24	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=11
+2016-04-28 12:01:25	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:25	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:25	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=12
+2016-04-28 12:01:26	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:26	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:26	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=13
+2016-04-28 12:01:27	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:27	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:27	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=14
+2016-04-28 12:01:28	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:28	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:28	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=15
+2016-04-28 12:01:28	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:29	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:29	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=16
+2016-04-28 12:01:29	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:30	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:30	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=17
+2016-04-28 12:01:30	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:31	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:31	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=18
+2016-04-28 12:01:31	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:31	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:32	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=19
+2016-04-28 12:01:32	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:32	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:33	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=23
+2016-04-28 12:01:33	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:33	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:34	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=24
+2016-04-28 12:01:34	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:34	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:34	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=25
+2016-04-28 12:01:35	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:35	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:35	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=26
+2016-04-28 12:01:36	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:36	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:36	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=28
+2016-04-28 12:01:37	**ERR: _CFileStream::read(1), nLastErr=21
+2016-04-28 12:01:37	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:37	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=27
+2016-04-28 12:01:37	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:38	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:38	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=29
+2016-04-28 12:01:39	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:40	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:40	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=0
+2016-04-28 12:01:40	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:40	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:41	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=0
+2016-04-28 12:01:41	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:41	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:42	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=1
+2016-04-28 12:01:42	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:42	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:43	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=1
+2016-04-28 12:01:43	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:43	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:43	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=2
+2016-04-28 12:01:44	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:44	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:44	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=2
+2016-04-28 12:01:45	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:45	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:45	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=3
+2016-04-28 12:01:46	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:46	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:46	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=3
+2016-04-28 12:01:46	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:47	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:47	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=4
+2016-04-28 12:01:47	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:48	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:48	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=4
+2016-04-28 12:01:48	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:49	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:49	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=5
+2016-04-28 12:01:49	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:49	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:50	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=5
+2016-04-28 12:01:50	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:50	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:51	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=6
+2016-04-28 12:01:51	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:51	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:52	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=6
+2016-04-28 12:01:52	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:52	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:52	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=7
+2016-04-28 12:01:53	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:53	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:53	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=7
+2016-04-28 12:01:54	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:54	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:54	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=8
+2016-04-28 12:01:55	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:55	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:55	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=8
+2016-04-28 12:01:56	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:56	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:56	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=9
+2016-04-28 12:01:56	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:57	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:57	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=9
+2016-04-28 12:01:57	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:58	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:58	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=10
+2016-04-28 12:01:58	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:59	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:01:59	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=10
+2016-04-28 12:01:59	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:01:59	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:00	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=11
+2016-04-28 12:02:00	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:00	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:01	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=11
+2016-04-28 12:02:01	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:01	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:02	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=12
+2016-04-28 12:02:02	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:02	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:02	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=12
+2016-04-28 12:02:03	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:03	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:03	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=13
+2016-04-28 12:02:04	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:04	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:04	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=13
+2016-04-28 12:02:05	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:05	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:05	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=14
+2016-04-28 12:02:05	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:06	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:06	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=14
+2016-04-28 12:02:06	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:07	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:07	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=15
+2016-04-28 12:02:07	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:08	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:08	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=15
+2016-04-28 12:02:08	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:08	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:09	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=16
+2016-04-28 12:02:09	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:09	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:10	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=16
+2016-04-28 12:02:10	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:10	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:11	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=0
+2016-04-28 12:02:11	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:11	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:12	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=0
+2016-04-28 12:02:12	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:12	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:12	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=1
+2016-04-28 12:02:13	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:13	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:13	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=1
+2016-04-28 12:02:14	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:14	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:14	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=2
+2016-04-28 12:02:15	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:15	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:15	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=2
+2016-04-28 12:02:15	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:16	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:16	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=3
+2016-04-28 12:02:16	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:17	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:17	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=3
+2016-04-28 12:02:17	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:18	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:18	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=4
+2016-04-28 12:02:18	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:19	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:19	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=4
+2016-04-28 12:02:19	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:19	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:20	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=5
+2016-04-28 12:02:20	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:20	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:21	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=5
+2016-04-28 12:02:21	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:21	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:22	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=6
+2016-04-28 12:02:22	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:22	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:22	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=6
+2016-04-28 12:02:23	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:23	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:23	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=7
+2016-04-28 12:02:24	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:24	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:24	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=7
+2016-04-28 12:02:25	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:25	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:25	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=8
+2016-04-28 12:02:25	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:26	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:26	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=8
+2016-04-28 12:02:26	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:27	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:27	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=9
+2016-04-28 12:02:27	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:28	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:28	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=9
+2016-04-28 12:02:28	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:28	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:29	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=10
+2016-04-28 12:02:29	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:29	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:30	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=10
+2016-04-28 12:02:30	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:30	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:31	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=11
+2016-04-28 12:02:31	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:31	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:31	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=11
+2016-04-28 12:02:32	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:32	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:32	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=12
+2016-04-28 12:02:33	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:33	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:33	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=12
+2016-04-28 12:02:34	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:34	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:34	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=13
+2016-04-28 12:02:35	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:35	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:35	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=13
+2016-04-28 12:02:35	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:36	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:36	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=14
+2016-04-28 12:02:36	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:37	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:37	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=14
+2016-04-28 12:02:37	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:38	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:38	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=15
+2016-04-28 12:02:38	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:38	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:39	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=15
+2016-04-28 12:02:39	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:39	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:40	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=16
+2016-04-28 12:02:40	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 12:02:40	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 12:02:41	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=16
+2016-04-28 14:09:36	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:09:36	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:09:36	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=15
+2016-04-28 14:09:37	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:09:37	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:09:37	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=15
+2016-04-28 14:09:38	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:09:38	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:09:38	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=16
+2016-04-28 14:09:38	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:09:39	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:09:39	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=16
+2016-04-28 14:09:39	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:09:40	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:09:40	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=17
+2016-04-28 14:09:40	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:09:41	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:09:41	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=17
+2016-04-28 14:09:41	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:09:41	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:09:42	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=0
+2016-04-28 14:09:42	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:09:42	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:09:43	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=0
+2016-04-28 14:09:43	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:09:43	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:09:44	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=1
+2016-04-28 14:09:44	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:09:44	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:09:44	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=1
+2016-04-28 14:09:45	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:09:45	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:09:45	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=2
+2016-04-28 14:09:46	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:09:46	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:09:46	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=2
+2016-04-28 14:09:47	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:09:47	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:09:47	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=3
+2016-04-28 14:09:48	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:09:48	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:09:48	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=3
+2016-04-28 14:09:48	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:09:49	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:09:49	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=4
+2016-04-28 14:09:49	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:09:50	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:09:50	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=4
+2016-04-28 14:09:50	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:09:51	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:09:51	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=5
+2016-04-28 14:09:51	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:09:51	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:09:52	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=5
+2016-04-28 14:09:52	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:09:52	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:09:53	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=6
+2016-04-28 14:09:53	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:09:53	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:09:54	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=6
+2016-04-28 14:09:54	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:09:54	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:09:54	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=7
+2016-04-28 14:09:55	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:09:55	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:09:55	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=7
+2016-04-28 14:09:56	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:09:56	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:09:56	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=8
+2016-04-28 14:09:57	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:09:57	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:09:57	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=8
+2016-04-28 14:09:57	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:09:58	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:09:58	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=9
+2016-04-28 14:09:58	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:09:59	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:09:59	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=9
+2016-04-28 14:09:59	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:10:00	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:10:00	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=10
+2016-04-28 14:10:00	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:10:00	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:10:01	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=10
+2016-04-28 14:10:01	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:10:01	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:10:02	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=11
+2016-04-28 14:10:02	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:10:02	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:10:03	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=11
+2016-04-28 14:10:03	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:10:03	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:10:03	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=12
+2016-04-28 14:10:04	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:10:04	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:10:04	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=12
+2016-04-28 14:10:05	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:10:05	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:10:05	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=13
+2016-04-28 14:10:06	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:10:06	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:10:06	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=13
+2016-04-28 14:10:06	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:10:07	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:10:07	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=14
+2016-04-28 14:10:07	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:10:08	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:10:08	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=14
+2016-04-28 14:10:08	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:10:09	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:10:09	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=15
+2016-04-28 14:10:09	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:10:09	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:10:10	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=15
+2016-04-28 14:10:10	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:10:10	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
+2016-04-28 14:10:11	**ERR: _CFileEntry::_readRecoveryInfo(sTag=\DIR); Failed to read data stream; sName=16
+2016-04-28 14:10:11	**ERR: _CFileStream::read(4), nLastErr=21
+2016-04-28 14:10:11	**ERR: std::exception: _CExceptionStreamRead: _CReadBytes::vBuf
