@@ -1,0 +1,28 @@
+2014-07-15 23:49:45	**ERR: _CFolderTree::_openStage2(); Wrong password.
+2014-07-15 23:49:45	**ERR: _CFolderTree::open(pStg=0067AB98); Failed with errcode=-20.
+2014-07-15 23:49:55	**ERR: _CFolderTree::_openStage2(); Wrong password.
+2014-07-15 23:49:55	**ERR: _CFolderTree::open(pStg=00726320); Failed with errcode=-20.
+2014-08-03 19:43:08	**ERR: _CFolderTree::_openStage2(); Wrong password.
+2014-08-03 19:43:08	**ERR: _CFolderTree::open(pStg=01F93958); Failed with errcode=-20.
+2014-08-03 19:43:26	**ERR: _CFolderTree::_openStage2(); Wrong password.
+2014-08-03 19:43:26	**ERR: _CFolderTree::open(pStg=01F8F4D0); Failed with errcode=-20.
+2015-04-30 23:20:25	**ERR: _CFolderTree::_openStage2(); Wrong password.
+2015-04-30 23:20:26	**ERR: _CFolderTree::open(pStg=005F07C0); Failed with errcode=-20.
+2015-04-30 23:20:45	**ERR: _CFolderTree::_openStage2(); Wrong password.
+2015-04-30 23:20:45	**ERR: _CFolderTree::open(pStg=01F22AA8); Failed with errcode=-20.
+2015-05-06 19:23:19	**ERR: _CFolderTree::_openStage2(); Wrong password.
+2015-05-06 19:23:20	**ERR: _CFolderTree::open(pStg=01ED2E28); Failed with errcode=-20.
+2015-10-27 12:00:24	**ERR: _CFolderTree::_openStage2(); Wrong password.
+2015-10-27 12:00:25	**ERR: _CFolderTree::open(pStg=0227BF70); Failed with errcode=-20.
+2015-10-27 12:46:07	**ERR: _CFileStream::open(D:\AlanKPCERT.cer, 0x20002), nLastErr=5
+2015-10-27 12:46:07	**ERR: _CFileStream::open(D:\AlanKPCERT.pkey, 0x20002), nLastErr=5
+2016-04-17 22:21:09	**ERR: _CFolderTree::_openStage2(); Wrong password.
+2016-04-17 22:21:09	**ERR: _CFolderTree::open(pStg=02971F40); Failed with errcode=-20.
+2016-04-18 07:12:54	**WARN: _CFolderTree::_openStage2(); Password callback function canceled.
+2016-04-18 07:12:55	**ERR: _CFolderTree::open(pStg=024A97A8); Failed with errcode=-21.
+2016-04-18 22:52:26	**ERR: _CFolderTree::_openStage2(); Wrong password.
+2016-04-18 22:52:26	**ERR: _CFolderTree::open(pStg=024A5CF8); Failed with errcode=-20.
+2016-04-25 22:19:36	**WARN: _CFolderTree::_openStage2(); Password callback function canceled.
+2016-04-25 22:19:36	**ERR: _CFolderTree::open(pStg=0243F520); Failed with errcode=-21.
+2016-04-27 11:58:54	**ERR: _CFolderTree::_openStage2(); Wrong password.
+2016-04-27 11:58:54	**ERR: _CFolderTree::open(pStg=029CCDF0); Failed with errcode=-20.
